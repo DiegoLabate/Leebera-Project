@@ -2,6 +2,9 @@
 
 Leebera is a project with the aim to reduce the electronic waste, limiting the harm of the (programmed or not) appliances obsolescence. 
 
+![landfill-update](https://user-images.githubusercontent.com/92993315/200126288-36990d4c-56aa-498e-9295-b628ed038752.jpg)
+
+
 We all know the scene when our washing machine or our fridge broke and our mom or our wife tell us the news when we are at work! At the begin we are pervaded with a sense of discomfort. We know we have two options, and the most likely is not to repair it. And I want explain you why.
 
 Imagine the fault is on the machine's electronic main board. Imagine also that the board's price included labour is a more expensive than to buy a new appliance or (as often is the case), the main board is not anymore on the market. So, this is what Leebera want avoid.
