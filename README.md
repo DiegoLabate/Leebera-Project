@@ -18,3 +18,6 @@ https://www.youtube.com/watch?v=LFNxyDjrpNE&t=23s
 First to throw away your washing machine, dishwater or your fridge, putting 70kg-80Kg of materials in the landfill, think twice and contact us!
 
 For information and support to our project please write to info@leebera.com.
+
+
+Disclaimer: Leebera is a trademarked name. All the material, intended for example as source code, circuit, design, text, documents, schematic provided on github are licensed as CC Attribution-NonCommercial-NoDerivatives 4.0 International.
