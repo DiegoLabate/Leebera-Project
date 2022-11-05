@@ -2,16 +2,16 @@
 
 Leebera is a project with the aim to reduce the electronic waste, limiting the harm of the (programmed or not) appliances obsolescence. 
 
-We all know the scene when our washing machine or our fridge it's broken and our mom or our wife tell you the news when we are at work! At the begin we are pervaded with a sense of discomfort. We know we have two options, and the most likely is not to repair it. And I want explain you why.
+We all know the scene when our washing machine or our fridge broke and our mom or our wife tell us the news when we are at work! At the begin we are pervaded with a sense of discomfort. We know we have two options, and the most likely is not to repair it. And I want explain you why.
 
-Imagine the fault is on the machine's electronic board. Imagine also that this board is a bit too much expensive compared to the new appliance or (as often is the case), the board is not anymore on the market. So, this is when Leebera come in.
+Imagine the fault is on the machine's electronic main board. Imagine also that the board's price included labour is a more expensive than to buy a new appliance or (as often is the case), the main board is not anymore on the market. So, this is what Leebera want avoid.
 
-We would like to extend the life of our appliance, just because we don't want to add 70Kg of waste to the land or just because we still love it and don't want to buy a new one. Leebera project is designing a new way to do it. We put the repairing problem in the design phase. Repairable by design. 
+Our mission is to extend the life of our appliance, just because we and you don't want to add 70-80 Kg of e-waste to the land or just because we still love it and don't want to buy a new one. Leebera is designing a new way to do it. We put the repairing problem in the design phase: repairable "by design". 
 
-We don't have the effort to produce a video just now, so in the following video you will have an idea to what we are talking for to develop a solution for the appliance like Washing Machine, Fridge, Dishwasher, etc.
+Just now we cannot put in place the effort to produce a video (someone interested :)? ), but the problem is well explained here: 
 
 https://www.youtube.com/watch?v=LFNxyDjrpNE&t=23s
 
-First to throw away your washing machine, your dishwater or your fridge, putting 70kg-80Kg of materials in the environment, think twice!
+First to throw away your washing machine, dishwater or your fridge, putting 70kg-80Kg of materials in the landfill, think twice and contact us!
 
 For information and support to our project please write to info@leebera.com.
