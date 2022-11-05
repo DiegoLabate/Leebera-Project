@@ -1,4 +1,5 @@
-# Leebera-Machine
+# Leebera Project
+
 Leebera is a project with the aim to reduce the electronic waste, limiting the harm of the (programmed or not) appliances obsolescence. 
 
 We all know the scene when our washing machine or our fridge it's broken and our mom or our wife tell you the news when we are at work! At the begin we are pervaded with a sense of discomfort. We know we have two options, and the most likely is not to repair it. And I want explain you why.
