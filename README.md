@@ -15,6 +15,10 @@ Just now we cannot put in place the effort to produce a video (someone intereste
 
 https://www.youtube.com/watch?v=LFNxyDjrpNE&t=23s
 
+
+![image](https://user-images.githubusercontent.com/92993315/200180736-bb27b545-80ba-4369-9ed9-4222a38d35fc.png)
+
+
 First to throw away your washing machine, dishwater or your fridge, putting 70kg-80Kg of materials in the landfill, think twice and contact us!
 
 For information and support to our project please write to info@leebera.com.
