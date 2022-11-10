@@ -22,7 +22,7 @@ The problem is addressed in the following video (we cannot afford a dedicated on
 
 https://www.youtube.com/watch?v=LFNxyDjrpNE&t=23s
 
-We created a dedicated logo that you can found here 
+We created also a dedicated logo "open source appliances" that you can found in this repository in vectorial format.  
 
 First to throw away your washing machine, dishwater or your fridge, putting 70kg-80Kg of materials in the landfill, think twice and contact us!
 
