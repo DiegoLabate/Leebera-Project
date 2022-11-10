@@ -1,5 +1,11 @@
 # Leebera Project
 
+
+![g200439](https://user-images.githubusercontent.com/92993315/201169925-91713df9-bae3-4c6f-8e6a-18438745ea28.png)
+
+
+
+
 Leebera is a project with the aim to reduce the electronic waste, limiting the harm of the (programmed or not) appliances obsolescence. 
 
 ![landfill-update](https://user-images.githubusercontent.com/92993315/200126288-36990d4c-56aa-498e-9295-b628ed038752.jpg)
