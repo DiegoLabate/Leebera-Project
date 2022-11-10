@@ -7,22 +7,24 @@
 
 
 
-Leebera project was created with the aim to reduce the e-waste (https://en.wikipedia.org/wiki/Electronic_waste), limiting and counteract planned or not appliances obsolescence. 
+Leebera project was created with the aim to reduce the e-waste (https://en.wikipedia.org/wiki/Electronic_waste), limiting and counteract planned or not appliances obsolescence. We just started boostrapping the project.
 
 ![landfill-update](https://user-images.githubusercontent.com/92993315/200126288-36990d4c-56aa-498e-9295-b628ed038752.jpg)
 
 
 We all know the typical journey when our washing machine or our fridge broke down and our mom or our wife tell us the news when we are at work! At the begin we are pervaded with a sense of discomfort. We know we have two options, and the most likely is not to repair it, but not for our choice. 
 
-Imagine you are able to understand that the fault is over the machine's main board. Imagine also that the board's price included labour is more expensive than to buy a new appliance or (as often is the case), the main board is not anymore on the market. You are forced to buy a new one. So, this is what Leebera want avoid.
+Imagine you are able to understand that the fault is over the machine's main board. Imagine also that the board's price included labour is more expensive than to buy a new appliance or (as often is the case), the main board is not anymore on the market. You are forced to buy a new one. This is the problem we would like to avoid.
 
-Imagine now you can rely on a project with the mission that you can retain your "old" appliance as more as possible extending his life. Just because you don't want to add 70-80 Kg of e-waste to the land or just because you still love it and don't want to buy a new one. Leebera is designing a new way to do it. We put the repairing problem as the most important in the design phase. Is what we call "repairable by design". 
+Imagine now you can rely on a project with the main purpose to allow you yo retain your "old" appliance as more as possible extending his life. Just because you don't want to add 70-80 Kg of e-waste to the land or just because you still love it and don't want to buy a new one. 
 
-The problem is addressed in the following video (we cannot afford a dedicated one at the moment): 
+Leebera is designing a new way to do it. We put the repairing problem as one of the most important in the design phase. Is what we call "repairable by design". 
+
+An example of the general problem is addressed in the following video (we cannot afford a dedicated video at the moment): 
 
 https://www.youtube.com/watch?v=LFNxyDjrpNE&t=23s
 
-We created also a dedicated logo "open source appliances" that you can found in this repository in vectorial format.  
+We created also a dedicated logo "open source appliances" that you can found in this repository as vectorial file.  
 
 First to throw away your washing machine, dishwater or your fridge, putting 70kg-80Kg of materials in the landfill, think twice and contact us!
 
