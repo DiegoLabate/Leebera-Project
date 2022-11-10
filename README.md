@@ -30,5 +30,7 @@ First to throw away your washing machine, dishwater or your fridge, putting 70kg
 
 For information, support and suggestions please write to info@leebera.com.
 
+![20220413_120025](https://user-images.githubusercontent.com/92993315/201183386-37e279a5-3fe0-4d0a-927d-240cf9faa006.jpg)
+
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />Leebera is a trademarked name. This work and the related material, intended for example  source code and source circuit schematic, pictures, design, text, documents, are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
