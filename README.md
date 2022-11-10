@@ -28,7 +28,7 @@ We created also a dedicated logo "open source appliances" that you can found in 
 
 First to throw away your washing machine, dishwater or your fridge, putting 70kg-80Kg of materials in the landfill, think twice and contact us!
 
-For information, support to our project please write to info@leebera.com.
+For information, support and suggestions please write to info@leebera.com.
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />Leebera is a trademarked name. This work and the related material, intended for example  source code and source circuit schematic, pictures, design, text, documents, are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
