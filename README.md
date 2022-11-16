@@ -27,11 +27,9 @@ We also created a dedicated "open source appliances" logo (you can find it in th
 
 From a technical point of view an appliances can be outlined with the generic image below.
 
-![appliances core](https://user-images.githubusercontent.com/92993315/202265565-17b5ca15-df55-4a7a-bb42-027492846f54.JPG)
-
 ![appliances core_2](https://user-images.githubusercontent.com/92993315/202266243-3fe25ad2-bef2-40c4-bc48-3c39b04c3ea8.png)
 
-
+A set of sensors that communicate with a core interface (a microcontroller for example) and a set of actuators that receive commands form that core interface. A sensor can be for example the pressure water level detector or the water temperature probe in a washing machine. An actuators can be for example a water drain pump or a fridge motor compressor. Each appliance is provided with several sensor and actuators. To be continued.
 
 First to throw away your washing machine, dishwater or your fridge, putting 70kg-80Kg of materials in the landfill, think twice and contact us!
 
