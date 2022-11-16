@@ -27,8 +27,6 @@ We also created a dedicated "open source appliances" logo (you can find it in th
 
 From a technical point of view an appliances can be outlined with the generic simplified architecture:
 
-![appliances core_2](https://user-images.githubusercontent.com/92993315/202266243-3fe25ad2-bef2-40c4-bc48-3c39b04c3ea8.png)
-
 <img src="https://user-images.githubusercontent.com/92993315/202266243-3fe25ad2-bef2-40c4-bc48-3c39b04c3ea8.png" width="85%" height="85%">
 
 A set of sensors that communicate with a core interface (a microcontroller for example) and a set of actuators that receive commands form that core interface. A sensor can be for example the pressure water level detector or the water temperature probe in a washing machine. An actuators can be for example a door-closing switch or a  motor compressor in a fridge. Each appliance is provided with several sensor and actuators. The core interface can be represented as a set of conditioning circuits for the sensors and a set of driver circuits for the actuators, all generally connected to a microprocessor/microcontroller. To be continued!
