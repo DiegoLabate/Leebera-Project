@@ -2,7 +2,7 @@
 
 
 
-![g1064 reduced](https://user-images.githubusercontent.com/92993315/201172127-a2738928-7ec3-4c09-9445-41d0004a6744.png) {: width="50%"}
+![g1064 reduced](https://user-images.githubusercontent.com/92993315/201172127-a2738928-7ec3-4c09-9445-41d0004a6744.png) 
 
 
 
