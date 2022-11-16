@@ -29,6 +29,9 @@ From a technical point of view an appliances can be outlined with the generic im
 
 ![appliances core](https://user-images.githubusercontent.com/92993315/202265565-17b5ca15-df55-4a7a-bb42-027492846f54.JPG)
 
+![appliances core_2](https://user-images.githubusercontent.com/92993315/202266243-3fe25ad2-bef2-40c4-bc48-3c39b04c3ea8.png)
+
+
 
 First to throw away your washing machine, dishwater or your fridge, putting 70kg-80Kg of materials in the landfill, think twice and contact us!
 
