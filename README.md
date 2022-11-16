@@ -7,29 +7,29 @@
 
 
 
-Leebera project was created with the aim to reduce the e-waste (https://en.wikipedia.org/wiki/Electronic_waste), limiting and counteract planned or not appliances obsolescence. We just started boostrapping the project.
+Leebera project has been created with the aim to reduce the e-waste (https://en.wikipedia.org/wiki/Electronic_waste), limiting and counteract (planned or not) appliances obsolescence. We just started bootstrapping the project.
 
 ![landfill-update](https://user-images.githubusercontent.com/92993315/200126288-36990d4c-56aa-498e-9295-b628ed038752.jpg)
 
 
-We all know the typical journey when our washing machine or our fridge broke down and our mom or our wife tell us the news when we are at work! At the begin we are pervaded with a sense of discomfort. We know we have two options, and the most likely is not to repair it, but not for our choice. 
+We all know the moment when our washing machine or our fridge broke down and our mom or our wife tell us the news when we are at work! At the begin we are pervaded with a sense of discomfort. We know we have two options, and the most likely is not to repair it, but not for our choice. 
 
-Imagine you are able to understand that the fault is on the machine's main board. Imagine also that the board's price included labour is more expensive in comparison to the cost of a new appliance or (as often is the case), the main board is not anymore on the market. You are forced to buy a new one. This is the problem we would like to avoid.
+Imagine you are able to understand that the fault is on the machine's main board. Imagine also that the board's price included labour is more expensive in comparison to the cost of a new appliance or (as often is the case), the main board is not anymore on the market. You are forced to buy a new one. This is the problem we would like to solve. Our mission.
 
-Imagine now you can rely on a project with the main purpose to allow you yo retain your "old" appliance as more as possible extending his life. Just because you don't want to add 70-80 Kg of e-waste to the land or just because you still love it and don't want to buy a new one. Or just for an economical point of view. 
-Leebera is designing a new way to do it. We put the repairing problem as one of the most important thing in the design phase. Is what we call "repairable by design". 
+Imagine now you can rely on a product designed with to give you the chance to retain your "old" appliance as more as possible, extending his life. Just because you don't want to add 70-80 Kg of e-waste to the land or just because you still love it and don't want to buy a new one. Or just for an economical point of view. 
+Leebera is designing a new way to do it. We put the repairing problem as one of the most important feature in the design phase. Is what allows the product to be "repairable by design". 
 
-An example of the general problem is addressed in the following video (we cannot afford a dedicated video at the moment): 
+An example of the general problem we are facing is addressed in the following video (we cannot afford a dedicated video at the moment): 
 
 https://www.youtube.com/watch?v=LFNxyDjrpNE&t=23s
 
 We also created a dedicated "open source appliances" logo (you can find it in this repository as vectorial file).  The use of the logo is under permissive license and is made for companies or people that want instill the open source concept in his appliance product (software or hardware part).
 
-From a technical point of view an appliances can be outlined with the generic simplified architecture below.
+From a technical point of view an appliances can be outlined with the generic simplified architecture:
 
 ![appliances core_2](https://user-images.githubusercontent.com/92993315/202266243-3fe25ad2-bef2-40c4-bc48-3c39b04c3ea8.png)
 
-A set of sensors that communicate with a core interface (a microcontroller for example) and a set of actuators that receive commands form that core interface. A sensor can be for example the pressure water level detector or the water temperature probe in a washing machine. An actuators can be for example a water drain pump or a fridge motor compressor. Each appliance is provided with several sensor and actuators. The core interface is a set of conditioning circuit for the sensor and a set of driver circuit for the actuators generally connected to a microprocessor/microcontroller. To be continued.
+A set of sensors that communicate with a core interface (a microcontroller for example) and a set of actuators that receive commands form that core interface. A sensor can be for example the pressure water level detector or the water temperature probe in a washing machine. An actuators can be for example a door-closing switch or a  motor compressor in a fridge. Each appliance is provided with several sensor and actuators. The core interface can be represented as a set of conditioning circuits for the sensors and a set of driver circuits for the actuators, all generally connected to a microprocessor/microcontroller. To be continued!
 
 First to throw away your washing machine, dishwater or your fridge, putting 70kg-80Kg of materials in the landfill, think twice and contact us!
 
